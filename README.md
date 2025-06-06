@@ -10,7 +10,7 @@ EcoScanApp is a Kotlin-based Android application designed to promote environment
 - **User-Friendly Interface:** Simple and intuitive UI for seamless navigation.
 - **Educational Resources:** Access articles and guides about sustainable living.
 
-<h2 align="center">Screenshots</h2>
+## Screenshots
 
 <table align="center">
   <tr>
