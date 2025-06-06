@@ -12,7 +12,10 @@ EcoScanApp is a Kotlin-based Android application designed to promote environment
 
 ## Screenshots
 
-_Add screenshots of your app here to showcase its features and design._
+![pic1](https://github.com/user-attachments/assets/2f543fa4-756e-405f-ba98-973ab5094481)
+![pic2](https://github.com/user-attachments/assets/f280f21f-b4d9-4b1e-ae4b-907785946d46)
+![pic3](https://github.com/user-attachments/assets/89700d87-e59c-49ac-8679-d629fb438746)
+
 
 ## Installation
 
@@ -50,10 +53,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request describing your changes.
 
-## License
-
-
-## Contact
 
 For questions or suggestions, open an issue or contact Aryan-Baglane via [GitHub](https://github.com/Aryan-Baglane).
 
